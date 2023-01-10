@@ -1,0 +1,97 @@
+@media (min-width:768px) and (max-width:1023px) {
+    /* Gerais */
+
+    h2 {
+        font-size: 1.0em;
+    }
+
+    h1 {
+        font-size: 3.4em;
+    }
+
+    h3 {
+        font-size: 1.2em;
+    }
+
+    p {
+        font-size: 0.9em;
+    }
+    
+
+    /* NAVBAR */
+
+    .header-nav {
+        column-gap: 40px;
+    }
+
+    /* HEADER */
+
+    .title-header {
+        font-size: 3.3em;
+    }
+/* 
+    .explore-header {
+        top: -620px;
+    } */
+
+    /* MAIN */
+
+    .grid-sistema {
+        grid-template-columns: 1fr 1fr;
+        padding-right: 40px;
+    }
+
+    .sistema-content {
+        width: 90%;
+    }
+
+    /* SERVICOS */
+
+    .tamanho-servico {
+        height: 290vh;
+    }
+
+    .text-servico__content {
+        font-size: 2em;
+    }
+
+    /* FOOTER */
+
+    
+    .converse-braz {
+        bottom: 0
+    }
+
+    .converse-braz {
+        height: 60vh;
+        bottom: 0;
+        /* top: ; */
+    }
+
+    .footer {
+        height: 100%;
+    }
+
+    .sobre-braz__paragrafo {
+        font-size: 1em;
+    }
+
+    .contato-content {
+        padding-left: 0px;
+    }
+
+    .contato-footer {
+        column-gap: 25px;
+    }
+
+    .para-contato{
+        font-size: 0.4em;
+    }
+
+    /* SVG HEADER */
+
+    .svg-header {
+        width: 180px;
+    }
+    
+}

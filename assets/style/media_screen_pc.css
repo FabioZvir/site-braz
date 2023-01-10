@@ -1,0 +1,28 @@
+@media (min-width:1024px) and (max-width: 1366px) {
+    h3 {
+        font-size: 1.4em;
+    }
+
+    h2 {
+        font-size: 1.3em;
+    }
+    
+    p {
+        font-size: 0.9em;
+    }
+
+    .title-header {
+        font-size: 3.9em;
+    }
+    .explore-header {
+        top: -620px;
+    }
+
+    .contato-content {
+        padding-left: 8px;
+    }
+
+    .para-contato{
+        font-size: 0.6em;
+    }
+}

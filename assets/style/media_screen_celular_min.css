@@ -1,0 +1,159 @@
+@media (max-width:560px) {
+    /* Gerais */
+
+    h2 {
+        font-size: 0.6em;
+    }
+
+    h2::after {
+        width: 50px;
+    }
+
+    h1 {
+        font-size: 1.8em;
+    }
+
+    h3 {
+        font-size: 0.8em;
+    }
+
+    p {
+        margin-top: 10px;
+        font-size: 0.8em;
+        line-height: 20px;
+    }
+    
+
+    /* NAVBAR */
+/* 
+    .header-grid {
+        height: 0;
+    } */
+
+    .svg-header {
+        top: 20px;
+        left: 20px;
+    }
+
+    .svg-arrow {
+        bottom: -60px;
+        left: 90%;
+    }
+/* 
+    .path-modify{
+        display: none;
+    } */
+
+    /* .header-nav__active{
+        display: block;
+    } */
+
+    .header-nav {
+        display: none;
+    }
+
+    /* HEADER */
+
+    .title-header {
+        font-size: 2.3em;
+    }
+
+    .hamburger {
+        display: block;
+    }
+
+    /* MAIN */
+
+    p {
+        font-size: 0.6em;
+        letter-spacing: 0.8px;
+    }
+
+    span {
+        font-size: 0.9em;
+    }
+
+    .paragrafo-size {
+        left: 0;
+    }
+
+    .svg-posicao {
+        width: 35%;
+        height: 30%;
+    }
+
+    .grid-sistema {
+        grid-template-columns: 1fr 1fr;
+        padding-right: 3px;
+        column-gap: 5px;
+        padding-left: 0px;
+    }
+
+    .svg-posicao{
+        margin-top: 0px;
+    }
+
+
+    .sistema-content {
+        width: 95%;
+    }
+
+    /* SERVICOS */
+
+    .tamanho-servico {
+        height: 260vh;
+    }
+
+    .text-servico__content {
+        font-size: 1.6em;
+    }
+
+    .posicao_servico {
+        width: 300px;
+        height: 400px;
+    }
+
+    /* FOOTER */
+
+    .footer {
+        height: 100%;
+    }
+
+    .converse-braz {
+        height: 80vh;
+        bottom: 0;
+        top: 10%;
+    }
+
+    .sobre-braz__paragrafo {
+        font-size: 0.7em;
+        margin-top: 0px;
+    }
+
+    .contato-content {
+        padding-left: 20px;
+    }
+
+    .contato-footer {
+        grid-template-columns: 1fr 1fr;
+        column-gap: 20px;
+    }
+
+    .para-contato{
+        margin-bottom: 20px;
+        margin-top: 10px;
+        font-size: 0.4em;
+        line-height: 12px;
+    }
+    
+    .sobre-braz__paragrafo{
+        padding-top: 65%;
+    }
+
+    /* SVG HEADER */
+
+    .svg-header {
+        width: 180px;
+    }
+    
+}

@@ -1,0 +1,121 @@
+@media (min-width:561px) and (max-width:767px) {
+    /* Gerais */
+
+    h2 {
+        font-size: 0.8em;
+    }
+
+    h1 {
+        font-size: 2em;
+    }
+
+    h3 {
+        font-size: 1em;
+    }
+
+    p {
+        font-size: 1em;
+    }
+    
+
+    /* NAVBAR */
+    
+    .svg-header {
+        top: 20px;
+        left: 20px;
+    }
+
+    .hamburger {
+        display: block;
+    }
+
+    
+    .header-nav {
+        display: none;
+    }
+
+    .svg-posicao {
+        width: 45%;
+        height: 40%;
+    }
+
+
+    /* HEADER */
+
+    .title-header {
+        font-size: 2.5em;
+    }
+
+    .header-content {
+        padding-top: 0px;
+    }
+
+    /* MAIN */
+
+    p {
+        font-size: 0.6em;
+        letter-spacing: 0.8px;
+    }
+
+    span {
+        font-size: 1.3em;
+    }
+
+    .svg-posicao {
+        width: 35%;
+    }
+
+    .grid-sistema {
+        grid-template-columns: 1fr 1fr;
+        padding-left: 5px;
+        column-gap: 5px;
+    }
+
+    .sistema-content {
+        width: 90%;
+    }
+
+    /* SERVICOS */
+
+    .tamanho-servico {
+        height: 2100px;
+    }
+    
+    .text-servico__content {
+        font-size: 1.9em;
+    }
+
+    /* FOOTER */
+
+    .footer {
+        height: 100%;
+    }
+
+    .converse-braz {
+        height: 75vh;
+        top: 25%;
+    }
+
+    .sobre-braz__paragrafo {
+        font-size: 0.8em;
+    }
+
+    .contato-content {
+        padding-left: 0px;
+    }
+
+    .contato-footer {
+        column-gap: 5px;
+    }
+
+    .para-contato{
+        font-size: 0.3em;
+    }
+
+    /* SVG HEADER */
+
+    .svg-header {
+        width: 180px;
+    }
+    
+}
